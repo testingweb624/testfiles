@@ -1,8 +1,8 @@
 Try running a command now:
 ```bash
-echo "Hello Cloud Shell"\
+echo "Hello Cloud Shell"
 \
-\r\n
-
-
+&nbsp;
+\
+&nbsp;
 ```
