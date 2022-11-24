@@ -1,3 +1,7 @@
 Try running a command now:
 
-```bash [id] ```
+```bash
+!^e
+$id
+echo test
+```
