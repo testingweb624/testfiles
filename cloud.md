@@ -1,5 +1,5 @@
 Try running a command now:
 
-```bash:id
+```bash bash bash;id
 echo kiran
 ```
