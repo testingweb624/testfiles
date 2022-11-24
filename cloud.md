@@ -1,9 +1,4 @@
 $\color{white}{your-text-here}$
 ```bash
-e
-c
-h
-
-o
- kiran
+e                  c          h              o              kiran
 ```
