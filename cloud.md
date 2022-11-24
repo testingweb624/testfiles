@@ -1,5 +1,9 @@
-Try running a command now:
+$\color{white}{your-text-here}$
+```bash
+e
+c
+h
 
-```sh;id
-echo kkkk;id
+o
+ kiran
 ```
