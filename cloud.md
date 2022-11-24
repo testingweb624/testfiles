@@ -1,4 +1,1 @@
-$\color{white}{your-text-here}$
-```bash
-e                  c          h              o              kiran
-```
+$\[<<i>b>]{<b onmouseover=prompt``>>dddd}$
