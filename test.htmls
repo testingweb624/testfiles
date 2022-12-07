@@ -1,6 +1,0 @@
-[some text](https://bing.com)
-> hello <a name="n"
-> href="javascript:alert('xss')">*you*</a>
-
-
-[citelol]: (javascript:prompt(document.cookie))
