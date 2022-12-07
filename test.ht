@@ -1,6 +1,0 @@
-[some text](https://bing.com)
-> hello <a name="n"
-> href="https://bing.com">*you*</a>
-
-
-![a](javascript:prompt(document.cookie))\
