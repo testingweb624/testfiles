@@ -21,7 +21,7 @@ https://970-cs-202608506355-default.cs-asia-southeast1-ajrg.cloudshell.dev/mini-
 
 
 > hello <a name="n"
-> href="https://apps.google.com/supportwidget/sessionexpired?session_id=3E8233CD-A1B9-4C5F-9BAD-2868B79624C6&product_context&product_name=Cloud Platform&return_url=javascript:alert()">*apps*</a>\
+> href="https://apps.google.com/supportwidget/sessionexpired?session_id=3E8233CD-A1B9-4C5F-9BAD-2868B79624C6&product_context&product_name=Cloud Platform&return_url=javascript:console.log(1)">*apps*</a>\
 
 
 
