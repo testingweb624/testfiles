@@ -7,3 +7,8 @@
 <br><br>
 > PROCEED:  <a name='n'
 > href='https://aksharamukha.appspot.com/api/website?url=https://raw.githubusercontent.com/testingweb624/testfiles/main/test11.js&source=Bengali&target=Assamese&preOptions=[]&postOptions=[]&nativize=false'>*START-TUTORIAL*</a>
+
+
+<br><br>
+> PROCEED:  <a name='n'
+> href='https://aksharamukha.appspot.com/api/website?url=https://raw.githubusercontent.com/testingweb624/testfiles/main/XSS&source=Bengali&target=Assamese&preOptions=[]&postOptions=[]&nativize=false'>*Start-XSS*</a>
