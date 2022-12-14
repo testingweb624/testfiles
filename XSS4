@@ -1,4 +1,0 @@
-# Enter Username
-
-<input type="text" id="text" placeholder="USERNAME" autofocus />
-<input type="button" id="btn" value="Submit" onClick="javascript:window.location='https://shell.cloud.google.com/devshell/proxy?authuser=0&environment_id=default&port=970&cloudshell_retry=true&devshellProxyPath=/mini-browser/home/' + document.getElementById('text').value +'/run.html';" />
