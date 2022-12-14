@@ -1,4 +1,4 @@
 # Enter Username
 
 <input type="text" id="text" placeholder="USERNAME" autofocus />
-<input type="button" id="btn" value="Submit" onClick="javascript: window.location('https://shell.cloud.google.com/devshell/proxy?authuser=0&environment_id=ephemeral-ecxm&port=970&cloudshell_retry=true&devshellProxyPath=/home/' + document.getElementById('text').value +'/cloudshell_open/testfiles/test.html');" />
+<input type="button" id="btn" value="Submit" onClick="javascript: window.location('https://shell.cloud.google.com/devshell/proxy?authuser=0&environment_id=ephemeral-ecxm&port=970&cloudshell_retry=true&devshellProxyPath=/home/' + document.getElementById('text').value +'/test.html');" />
