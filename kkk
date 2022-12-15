@@ -1,0 +1,5 @@
+<script>
+      const myWindow = window.open("", "", "width=300,height=300");
+      
+      myWindow.opener.location="about:blank";
+    </script>
